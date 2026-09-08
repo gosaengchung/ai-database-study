@@ -1,1 +1,0 @@
-# ai-database-study
