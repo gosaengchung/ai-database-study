@@ -13,7 +13,7 @@
 | 학번 | 2020-11543 |
 | 이름 | 고주환 |
 | GitHub 계정 | gosaengchung |
-| 과제 작성일 | 2026.08.08 |
+| 과제 작성일 | 2026.08.gi08 |
 | 사용한 AI 도구 | ChatGPT GPT-5.6 Terra|
 
 > 실제 비밀번호, API Key, 전체 DB 접속 URL, 개인정보는 이 파일이나 캡처 화면에 기록하지 않습니다.
@@ -642,14 +642,10 @@ AI 대화 전체를 캡처할 필요는 없습니다. 핵심 요청과 검토 �
 
 아래에는 **교수자 템플릿 URL이 아니라 본인이 작성한 답안 파일의 GitHub URL**을 기록합니다.
 
-```text
-https://github.com/<본인-GitHub-ID>/<본인-저장소>/blob/main/assignments/chapter01/chapter01_answer.md
-```
-
 내 실제 제출 URL:
 
 ```text
-
+https://github.com/gosaengchung/ai-database-study/blob/main/assignments/chapter01/chapter01_answer.md
 ```
 
 > LMS에는 위 **본인 저장소의 `chapter01_answer.md` 파일 URL 하나**를 제출합니다.
