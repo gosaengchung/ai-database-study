@@ -664,7 +664,7 @@ assignments/chapter02/images/
 LMS 제출 URL 형식:
 
 ```text
-https://github.com/<본인-GitHub-ID>/<본인-저장소>/blob/main/assignments/chapter02/chapter02_answer.md
+https://github.com/gosaengchung/ai-database-study/blob/main/assignments/chapter02/chapter02_answer.md
 ```
 
 ## 최종 확인
