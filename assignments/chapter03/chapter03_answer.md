@@ -354,10 +354,10 @@ SELECT current_database();
 - [ ] 권한 문제
 - [ ] 기타
 
-선택 이유: 오류문에서 selec 근처 syntax error를 발견하였기 때문이다.
+선택 이유:
 
 ```text
-
+오류문에서 selec 근처 syntax error를 발견하였기 때문이다.
 ```
 
 ---
