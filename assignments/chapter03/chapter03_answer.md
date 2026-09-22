@@ -159,7 +159,7 @@ assignments/chapter03/images/step03_location_check.png
 ```
 
 `여기에 현재 DB/사용자/스키마/search_path 결과 화면을 삽입하세요.`
-![결과화면 쿼리](.images/step03_location_check.png)
+![결과화면 쿼리](./images/step03_location_check.png)
 ---
 
 # 4. `ai_database_book` 데이터베이스 확인
@@ -245,9 +245,9 @@ assignments/chapter03/images/step05_execution_scope.png
 ```
 
 `여기에 실행 범위 비교 화면을 삽입하세요.`
-![실행 범위 비교 화면 1](.images/step05_execution_scope_1.png)
-![실행 범위 비교 화면 2](.images/step05_execution_scope_2.png)
-![실행 범위 비교 화면 3](.images/step05_execution_scope_3.png)
+![실행 범위 비교 화면 1](./images/step05_execution_scope_1.png)
+![실행 범위 비교 화면 2](./images/step05_execution_scope_2.png)
+![실행 범위 비교 화면 3](./images/step05_execution_scope_3.png)
 ---
 
 # 6. 제공된 환경 확인 SQL 실행
@@ -377,10 +377,7 @@ SELECT current_database();
 여기에 SQL로 무엇을 하려는지 작성
 
 [실행한 SQL]
-
-```sql
 여기에 SQL 붙여넣기
-```
 
 [오류 메시지 또는 실제 결과]
 여기에 DBeaver 오류 메시지나 예상과 달랐던 결과 붙여넣기
