@@ -244,7 +244,7 @@ SELECT 'B' AS step;
 assignments/chapter03/images/step05_execution_scope.png
 ```
 
-`여기에 실행 범위 비교 화면을 삽입하세요.`
+`여기에 실행 범위 비교 화면을 삽입하세요. (캡처 오류로 Dock 부분이 잘렸습니다.)`
 ![실행 범위 비교 화면 1](./images/step05_execution_scope_1.png)
 ![실행 범위 비교 화면 2](./images/step05_execution_scope_2.png)
 ![실행 범위 비교 화면 3](./images/step05_execution_scope_3.png)
