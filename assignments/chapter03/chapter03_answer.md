@@ -126,7 +126,7 @@ SHOW TimeZone;
 | `current_database()` | postgres | 현재 위치한 데이터베이스 이름이 postgres이다. |
 | `current_user` | postgres | 현재 데이터베이스의 소유자 이름이 postgres이다. |
 | `current_schema()` | public | 현재 위치한 데이터베이스 내 스키마가 public이라는 스키마이다 |
-| `search_path` | public, "$user" |  |
+| `search_path` | public, "$user" | 어느 스키마부터 순서대로 찾아볼지 결정, 현재 접속한 사용자 이름과 같은 이름의 스키마 ($user)의 public 스키마 |
 | `transaction_read_only` | off | 이 데이터베이스의 구조를 바꿀 수 있는 권한이 커져있다. (읽기 전용 모드가 off되어 있으므로) |
 | `TimeZone` | Asia/Seoul | 지금 데이터베이스의 표준 시각이 서울 표준시를 따르고 있음 |
 
