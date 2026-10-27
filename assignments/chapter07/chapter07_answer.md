@@ -567,7 +567,7 @@ P07-MQ03. 투자 전략의 선택지를 고정된 목록으로 제한할 것인�
 assignments/chapter07/images/personal_project_erd.png
 ```
 
-![프로젝트 ERD](.images/personal_project_erd.png)
+![프로젝트 ERD](./images/personal_project_erd.png)
 
 ### Chapter 05~06 ERD에서 이번에 바꾼 점
 
