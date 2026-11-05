@@ -72,7 +72,7 @@ assignments/chapter08/images/step01_prerequisite.png
 ```
 
 `여기에 사전 검사 통과 화면을 삽입하세요.`
-![검사 통과 화면](.images/step01_prerequisite.png)
+![검사 통과 화면](./images/step01_prerequisite.png)
 ---
 
 # 2. 업무 질문을 SQL보다 먼저 정의하기
@@ -186,7 +186,7 @@ left join course_project.instructors as i on (c.instructor_id = i.id)
 assignments/chapter08/images/step03_inner_join.png
 ```
 
-![다중 JOIN 결과 화면](.images/step03_inner_join.png)
+![다중 JOIN 결과 화면](./images/step03_inner_join.png)
 ---
 
 # 4. LEFT JOIN과 0건 표현
@@ -527,8 +527,8 @@ DISTINCT는 강의별로 가격을 한 번씩 세는 것이 아니라, 서로 �
 assignments/chapter08/images/step09_over_aggregation.png
 ```
 
-![잘못된 합계](.images/step09_over_aggregation_1.png)
-![올바른 합계](.images/step09_over_aggregation_2.png)
+![잘못된 합계](./images/step09_over_aggregation_1.png)
+![올바른 합계](./images/step09_over_aggregation_2.png)
 ---
 
 # 10. 상세 결과 ↔ 집계 결과 교차 검산
