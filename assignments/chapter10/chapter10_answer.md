@@ -129,7 +129,7 @@ code/chapter10/02_performance_lab_seed.sql
 ```
 
 ### 증거 화면
-![데이터 규모 확인](.images/step03_data_scale.png)
+![데이터 규모 확인](./images/step03_data_scale.png)
 ---
 
 # 4. 인덱스 생성 전 기준 계획 기록
@@ -229,7 +229,7 @@ cost는 데이터베이스가 여러 실행 방법을 비교하기 위해 계산
 ### 증거 화면
 
 `여기에 대표 기준 실행 계획을 삽입하세요.`
-![대표 기준 실행 계획](.images/step04_before_plan.png)
+![대표 기준 실행 계획](./images/step04_before_plan.png)
 ---
 
 # 5. 후보 인덱스를 만들기 전에 이유 작성
@@ -331,7 +331,7 @@ Chapter 4에서 기록한 **동일 SQL**을 비교합니다.
 
 ### 증거 화면
 
-![동일 쿼리 비교](.images/step07_after_plan.png)
+![동일 쿼리 비교](./images/step07_after_plan.png)
 ---
 
 # 8. `status` 단독 조회와 Seq Scan 해석
